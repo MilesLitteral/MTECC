@@ -1,2 +1,2 @@
 # MTECC
-Official GitHub of the Emerging Media TEChnology Club
+Official GitHub of the Emerging Media Technology Club
